@@ -53,9 +53,7 @@ const Layout = ({ children, ...props }: Props) => {
 
   useEffect(() => {
       onWalletConnection()
-      return () => {
-        onWalletConnectionComplete()
-      }
+      onWalletConnectionComplete()
   }, [isConnected])
 
   return (
