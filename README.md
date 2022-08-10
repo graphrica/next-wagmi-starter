@@ -1,4 +1,4 @@
-# next wagmi starter 
+# 🦀 next wagmi starter 🦀
 
 A web3 start built with next, wagmi, chakra and typescript.
 
